@@ -8,3 +8,4 @@ let { numPlanets, yearNeptuneDiscovered } = facts;
 console.log(numPlanets); // *
 console.log(yearNeptuneDiscovered); // **
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
